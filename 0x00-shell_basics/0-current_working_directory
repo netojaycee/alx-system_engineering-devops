@@ -1,2 +1,0 @@
-#!/bin/bash
-path=$DIR_PATH/$(basename "${BASH_SOURCE:-$0}")
